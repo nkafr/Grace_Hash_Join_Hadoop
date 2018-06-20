@@ -15,6 +15,6 @@ The program takes 2 csv files as input, which represent the R and S relational t
 After compiling the project and producing the GraceHashJoinCluster6.jar file, execute:
 ```Java
 hadoop jar GraceHashJoinCluster6.jar com.proxwvaseis.gracehashjoin.Main path_to_left_table path_to_right_table
-name_of_join_column  #num_of_machines ```
+name_of_join_column  #num_of_machines 
 
 
